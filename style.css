@@ -1,0 +1,35 @@
+body{
+  background-color: #ffff74;
+}
+div,section{
+  text-align: center;
+  height: 50vh;
+}
+div{
+  background-color: #62bbdc;
+}
+section{
+  background-color: #ff1d1d;
+}
+.hidden{
+     opacity:0;
+}
+.visible{
+     opacity:1;
+}
+div,section{
+  text-align: center;
+  height: 50vh;
+}
+div{
+  background-color: #62bbdc;
+}
+section{
+  background-color: #ff1d1d;
+}
+.hidden{
+     opacity:0;
+}
+.visible{
+     opacity:1;
+}
